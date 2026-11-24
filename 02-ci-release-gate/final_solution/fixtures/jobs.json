@@ -1,0 +1,9 @@
+[
+  {"id": 19, "name": "render-config", "status": "success"},
+  {"id": 145, "name": "lint-yaml", "status": "success"},
+  {"id": 120, "name": "offline-smoke", "status": "skipped"},
+  {"id": 109, "name": "schema-check", "status": "failed", "allow_failure": true},
+  {"id": 122, "name": "render-config", "status": "failed"},
+  {"id": 77, "name": "lint-yaml", "status": "failed"},
+  {"id": 201, "name": "publish-docs", "status": "failed"}
+]

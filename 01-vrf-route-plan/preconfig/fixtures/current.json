@@ -1,0 +1,8 @@
+[
+  {"vrf": "BLUE", "prefix": "198.51.100.0/24", "next_hop": "192.0.2.5", "owner": "automation"},
+  {"vrf": "GREEN", "prefix": "198.51.100.0/24", "next_hop": "192.0.2.12", "owner": "manual"},
+  {"vrf": "BLUE", "prefix": "203.0.113.64/26", "next_hop": "192.0.2.4", "owner": "automation"},
+  {"vrf": "BLUE", "prefix": "2001:db8:10::/64", "next_hop": "2001:db8::11", "owner": "manual"},
+  {"vrf": "BLUE", "prefix": "172.16.9.0/24", "next_hop": "192.0.2.6", "owner": "automation"},
+  {"vrf": "BLUE", "prefix": "172.16.10.0/24", "next_hop": "192.0.2.6", "owner": "manual"}
+]

@@ -1,0 +1,7 @@
+[
+  {"name": "render-config", "allow_skip": false},
+  {"name": "offline-smoke", "allow_skip": true},
+  {"name": "lint-yaml", "allow_skip": false},
+  {"name": "schema-check", "allow_skip": false},
+  {"name": "rollback-check", "allow_skip": false}
+]

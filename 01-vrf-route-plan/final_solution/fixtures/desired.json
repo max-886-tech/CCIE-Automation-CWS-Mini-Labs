@@ -1,0 +1,10 @@
+[
+  {"vrf": "GREEN", "prefix": "2001:0db8:20::42/64", "next_hop": "2001:0db8:0:0::1"},
+  {"vrf": "BLUE", "prefix": "203.0.113.99/26", "next_hop": "192.0.2.4"},
+  {"vrf": "BLUE", "prefix": "10.44.10.15/24", "next_hop": "192.0.2.9"},
+  {"vrf": "BLUE", "prefix": "10.44.2.24/24", "next_hop": "192.0.2.7"},
+  {"vrf": "BLUE", "prefix": "198.51.100.14/24", "next_hop": "192.0.2.11"},
+  {"vrf": "GREEN", "prefix": "198.51.100.25/24", "next_hop": "192.0.2.13"},
+  {"vrf": "BLUE", "prefix": "2001:DB8:10::9/64", "next_hop": "2001:0db8::11"},
+  {"vrf": "GREEN", "prefix": "203.0.113.5/25", "next_hop": "192.0.2.20"}
+]
